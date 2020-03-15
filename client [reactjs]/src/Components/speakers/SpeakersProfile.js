@@ -83,7 +83,7 @@ class SpeakerProfile extends Component {
                                                     className="img-responsive img-circle"
                                                     style={imageStyle}
                                                     src={
-                                                        "../../images/" +
+                                                        "images/" +
                                                         this.state.data.image
                                                     }
                                                     alt="User profile picture"
